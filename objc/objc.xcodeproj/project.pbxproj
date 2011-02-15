@@ -29,6 +29,7 @@
 		3B8B6B05130AA9910087E77E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3B8B6B08130AA9910087E77E /* objc-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "objc-Prefix.pch"; sourceTree = "<group>"; };
 		3B8B6B09130AA9910087E77E /* objc.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = objc.1; sourceTree = "<group>"; };
+		3B8B6B10130AAD420087E77E /* Window.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Window.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 				3B8B6B05130AA9910087E77E /* main.m */,
 				3B8B6B09130AA9910087E77E /* objc.1 */,
 				3B8B6B07130AA9910087E77E /* Supporting Files */,
+				3B8B6B10130AAD420087E77E /* Window.xib */,
 			);
 			path = objc;
 			sourceTree = "<group>";
